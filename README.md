@@ -1,122 +1,219 @@
-<h1 align="center">👋 Hola, soy Peter Avilés</h1>
-<h3 align="center">Desarrollador Full Stack | Guayaquil, Ecuador</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=peteravi&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="peteravi" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=220&section=header&text=Peter%20Avil%C3%A9s&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Backend%20%7C%20APIs%20%7C%20Database%20Systems&descAlignY=58&descSize=18"/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Desarrollador+Full+Stack;Especializado+en+Backend+y+APIs+REST;Sistemas+web%2C+bases+de+datos+y+automatizaci%C3%B3n;Disponible+para+proyectos+y+colaboraciones" alt="Typing SVG" />
 
-### 🧑‍💻 Sobre mí
+<br/>
 
-Soy un programador backend con experiencia en el diseño, desarrollo y mantenimiento de sistemas informáticos sólidos y eficientes.  
-Me especializo en:
+<a href="mailto:avilespiter35@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contactar-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/peter-aviles-alarcon-9053a5252/">
+  <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/peteravi">
+  <img src="https://img.shields.io/badge/GitHub-Portafolio-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-- Lógica de servidor y arquitectura backend
-- Gestión de bases de datos (SQL y NoSQL)
-- Desarrollo de APIs RESTful
-- Optimización de rendimiento y seguridad
+<br/><br/>
 
-Disfruto colaborar estrechamente con desarrolladores frontend para construir soluciones integrales y de alta calidad.  
-Actualmente estoy aprendiendo **frameworks modernos** para seguir ampliando mis habilidades.
+<img src="https://komarev.com/ghpvc/?username=peteravi&label=Visitas%20al%20perfil&color=2563eb&style=for-the-badge" />
 
-📫 **Contáctame:** [avilespiter35@gmail.com](mailto:avilespiter35@gmail.com)
-
----
-
-### 🌐 Conéctate conmigo
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/peter-aviles-alarcon-9053a5252/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn de Peter Avilés" height="30" width="40" />
-  </a>
-</p>
-
----
-
-### 🛠️ Lenguajes y herramientas (carril horizontal)
-
-<div style="overflow-x: auto; white-space: nowrap; padding: 10px 0;">
-  <!-- Lenguajes principales -->
-  <a href="https://www.python.org" target="_blank" style="display: inline-block; margin-right: 15px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" style="display: inline-block; margin-right: 15px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" style="display: inline-block; margin-right: 15px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" style="display: inline-block; margin-right: 15px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  
-  <!-- Frameworks -->
-  <a href="https://www.djangoproject.com/" target="_blank" style="display: inline-block; margin-right: 15px;">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
-  </a>
-  <a href="https://spring.io/" target="_blank" style="display: inline-block; margin-right: 15px;">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/>
-  </a>
-  
-  <!-- Bases de datos -->
-  <a href="https://www.mysql.com/" target="_blank" style="display: inline-block; margin-right: 15px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" style="display: inline-block; margin-right: 15px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" style="display: inline-block; margin-right: 15px;">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" style="display: inline-block; margin-right: 15px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://www.oracle.com/" target="_blank" style="display: inline-block; margin-right: 15px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" style="display: inline-block; margin-right: 15px;">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/>
-  </a>
-  
-  <!-- Herramientas y otros -->
-  <a href="https://git-scm.com/" target="_blank" style="display: inline-block; margin-right: 15px;">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" style="display: inline-block; margin-right: 15px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" style="display: inline-block; margin-right: 15px;">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  </a>
-  <a href="https://developer.android.com" target="_blank" style="display: inline-block; margin-right: 15px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank" style="display: inline-block; margin-right: 15px;">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
-  </a>
-  
-  <!-- Frontend básico -->
-  <a href="https://www.w3.org/html/" target="_blank" style="display: inline-block; margin-right: 15px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" style="display: inline-block; margin-right: 15px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
 </div>
 
 ---
 
-### 📊 Estadísticas de GitHub
+## 👨‍💻 Sobre mí
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=peteravi&show_icons=true&locale=es&layout=compact&theme=default" alt="Lenguajes más usados" />
-</p>
+Soy **desarrollador Full Stack** de Guayaquil, Ecuador, enfocado en construir soluciones web funcionales, seguras y escalables. Me especializo en **backend, APIs REST, bases de datos, lógica de negocio y automatización de procesos**, integrando interfaces modernas con sistemas sólidos del lado del servidor.
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=peteravi&theme=flat&no-frame=true&margin-w=15" alt="Trofeos de GitHub" />
-</p>
+Me interesa crear software útil para empresas, emprendedores y proyectos reales: sistemas administrativos, plataformas web, módulos de pagos, gestión de datos, automatización y herramientas tecnológicas orientadas a resolver problemas concretos.
 
 ---
 
-⭐️ **Gracias por visitar mi perfil. ¡Estoy abierto a colaborar en proyectos desafiantes!**
+## 🚀 Lo que puedo aportar
+
+<table>
+<tr>
+<td width="50%">
+
+### Backend & APIs
+- Desarrollo de APIs REST.
+- Arquitectura de servidor.
+- Validaciones y seguridad.
+- Integración con bases de datos.
+- Módulos de autenticación y pagos.
+
+</td>
+<td width="50%">
+
+### Soluciones Web
+- Páginas web profesionales.
+- Sistemas administrativos.
+- Plataformas con panel de control.
+- Automatización de procesos.
+- Diseño responsive para clientes.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧰 Tecnologías principales
+
+<div align="center">
+
+### Lenguajes, Frameworks y Herramientas
+
+<img src="https://skillicons.dev/icons?i=python,java,cs,nodejs,express,django,spring,html,css,js,bootstrap,mysql,postgres,mongodb,sqlite,docker,git,github,linux,firebase,vscode&perline=7" />
+
+</div>
+
+---
+
+## 🎯 Áreas de trabajo
+
+<div align="center">
+
+| Área | Experiencia |
+|---|---|
+| 🔧 Backend | APIs, lógica de negocio, autenticación, servicios |
+| 🗄️ Bases de datos | MySQL, PostgreSQL, SQLite, MongoDB |
+| 🌐 Frontend | HTML, CSS, JavaScript, Bootstrap |
+| 🧩 Sistemas web | Plataformas administrativas y comerciales |
+| 🐳 DevOps básico | Docker, Linux, VPS, despliegues |
+| 🔐 Seguridad | Buenas prácticas, control de acceso y validaciones |
+
+</div>
+
+---
+
+## 🖼️ Proyectos destacados
+
+<div align="center">
+
+### Carrusel de proyectos
+
+> Reemplaza estas imágenes por capturas reales de tus proyectos.
+
+<table>
+<tr>
+<td width="33%">
+  <img src="https://placehold.co/600x350/0f172a/38bdf8?text=Sistema+Ticketing+QR" width="100%"/>
+  <br/>
+  <b>Sistema de Ticketing QR</b>
+  <br/>
+  Plataforma para eventos, entradas, pagos y gestión de órdenes.
+</td>
+<td width="33%">
+  <img src="https://placehold.co/600x350/111827/22c55e?text=Servicios+de+Pintura" width="100%"/>
+  <br/>
+  <b>Web Comercial</b>
+  <br/>
+  Página profesional para promocionar servicios y captar clientes.
+</td>
+<td width="33%">
+  <img src="https://placehold.co/600x350/1e1b4b/a78bfa?text=Dashboard+Administrativo" width="100%"/>
+  <br/>
+  <b>Panel Administrativo</b>
+  <br/>
+  Gestión de datos, usuarios, productos, pagos y reportes.
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 💼 Servicios que puedo desarrollar
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+  <img src="https://img.icons8.com/fluency/96/source-code.png" width="60"/>
+  <br/>
+  <b>Desarrollo Web</b>
+  <br/>
+  Sitios modernos para negocios.
+</td>
+<td align="center" width="25%">
+  <img src="https://img.icons8.com/fluency/96/database.png" width="60"/>
+  <br/>
+  <b>Bases de Datos</b>
+  <br/>
+  Diseño, consultas y optimización.
+</td>
+<td align="center" width="25%">
+  <img src="https://img.icons8.com/fluency/96/api-settings.png" width="60"/>
+  <br/>
+  <b>APIs REST</b>
+  <br/>
+  Backend conectado y seguro.
+</td>
+<td align="center" width="25%">
+  <img src="https://img.icons8.com/fluency/96/docker.png" width="60"/>
+  <br/>
+  <b>Despliegues</b>
+  <br/>
+  VPS, Docker y configuración web.
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=peteravi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peteravi&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=peteravi&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=peteravi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+
+</div>
+
+---
+
+## 🌎 Contacto
+
+<div align="center">
+
+Estoy abierto a colaborar en proyectos tecnológicos, desarrollo web, backend, automatización y soluciones para empresas o emprendimientos.
+
+<br/>
+
+<a href="mailto:avilespiter35@gmail.com">
+  <img src="https://img.shields.io/badge/Enviar%20correo-avilespiter35%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/peter-aviles-alarcon-9053a5252/">
+  <img src="https://img.shields.io/badge/LinkedIn-Peter%20Avil%C3%A9s-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:0f172a&height=120&section=footer"/>
+
+<b>⭐ Gracias por visitar mi perfil. Estoy disponible para proyectos, colaboraciones y oportunidades profesionales.</b>
+
+</div>
